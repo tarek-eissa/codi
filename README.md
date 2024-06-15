@@ -10,7 +10,7 @@ pip install pycodi
 ```
 
 ## Usage
-For detailed information on how to initialize the CODI method and configure its parameters, please refer to the `Example_usage.ipynb` Jupyter Notebook and the code documentation in the `pycodi.py` file. The basic usage format is as follows:
+For detailed information on how to initialize the CODI method and configure its parameters, please refer to the `Example usage.ipynb` Jupyter Notebook and the code documentation in the `pycodi.py` file. The basic usage format is as follows:
 ```python
 from pycodi import CODI
 
