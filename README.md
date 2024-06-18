@@ -1,7 +1,7 @@
 # Contextual Out-of-Distribution Integration (CODI)
 
 ## Description
-This repository contains a Python implementation of the CODI method described in the paper entitled "**CODI: Enhancing machine learning-based molecular profiling through contextual out-of-distribution integration**" (https://doi.org/xxxx/xx.xx.xx).
+This repository contains a Python implementation of the CODI method described in the paper entitled "**CODI: Enhancing machine learning-based molecular profiling through contextual out-of-distribution integration**" (https://doi.org/10.1101/2024.06.15.598503).
 
 ## Installation
 A package is available via PyPI:
@@ -23,5 +23,4 @@ X_gen, y_gen = codi.generate_samples(X=<your_X>, y=<your_y>, seed_strategy=<your
 ```
 
 ## Citation
-> Eissa, T.; Huber, M.; Obermayer-Pietsch, B.; Linkohr, B.; Peters, A.; Fleischmann, F.; Žigman, M. CODI: Enhancing machine learning-based molecular profiling through contextual out-of-distribution integration, 2024. https://doi.org/xxxx/xx.xx.xx.
-> ...
+> Eissa, T.; Huber, M.; Obermayer-Pietsch, B.; Linkohr, B.; Peters, A.; Fleischmann, F.; Žigman, M. CODI: Enhancing machine learning-based molecular profiling through contextual out-of-distribution integration, 2024. https://doi.org/10.1101/2024.06.15.598503.
