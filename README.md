@@ -23,4 +23,4 @@ X_gen, y_gen = codi.generate_samples(X=<your_X>, y=<your_y>, seed_strategy=<your
 ```
 
 ## Citation
-> Eissa, T.; Huber, M.; Obermayer-Pietsch, B.; Linkohr, B.; Peters, A.; Fleischmann, F.; Žigman, M. CODI: Enhancing machine learning-based molecular profiling through contextual out-of-distribution integration, 2024. https://doi.org/10.1101/2024.06.15.598503.
+> Tarek Eissa, Marinus Huber, Barbara Obermayer-Pietsch, Birgit Linkohr, Annette Peters, Frank Fleischmann, Mihaela Žigman, CODI: Enhancing machine learning-based molecular profiling through contextual out-of-distribution integration, PNAS Nexus, 2024;, pgae449, https://doi.org/10.1093/pnasnexus/pgae449
